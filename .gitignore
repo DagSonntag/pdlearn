@@ -9,6 +9,8 @@
 .DS_Store
 
 dist/
+.idea/
+pdlearn.egg-info/
 MANIFEST
 *.pdf
 *.nt.bz2
@@ -19,4 +21,5 @@ MANIFEST
 
 *.sln
 *.pyproj
+
 
